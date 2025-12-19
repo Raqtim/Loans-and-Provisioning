@@ -25,11 +25,10 @@
   <tr><th colspan="2">In Bangladesh banking practice, PAD often transitions into **LTR** (Loan Against Trust Receipt) or **LIM** (Loan Against Imported Merchandise) depending on the situation.</th></tr>
   <tr>
     <td>Payment against Document</td>
-    <td>- Created when the bank pays the exporter under an L/C and holds the shipping documents.
-      - Importer cannot take delivery until PAD is settled.</td>
+    <td>- Created when the bank pays the exporter under an L/C and holds the shipping documents.<br> - Importer cannot take delivery until PAD is settled.</td>
   </tr>
 </table>
 
 | Ex. |
 |- Post Import Financing |
-|- Payment against Document | In Bangladesh banking practice, PAD often transitions into **LTR** (Loan Against Trust Receipt) or **LIM** (Loan Against Imported Merchandise) depending on the situation. |
+|- Payment Against Document (PAD) | In Bangladesh banking practice, PAD often transitions into **LTR** (Loan Against Trust Receipt) or **LIM** (Loan Against Imported Merchandise) depending on the situation. |
