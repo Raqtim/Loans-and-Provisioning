@@ -1,3 +1,5 @@
+_`The information presented here is compiled for personal reference and educational purposes only. Please verify with Bangladesh Bank circulars and authoritative sources before applying in practice.`_
+## 
 ### **Definitions:**
 **a) Revolving Facility:** _(renewable)_
 - Borrowers can withdraw and repay multiple times within the sanctioned limit.
