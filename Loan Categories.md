@@ -21,12 +21,32 @@
 | :--- | ---: |
 ### B. Demand Loan: _(one-off facility)_
 - A type of credit facility that is repayable on demand by the Bank (lender)
+
+| Such as: |
+| :--- |
+| **PIF** - Post-Import (after shipment) Financing<br>- **PAD** - Payment Against Documents<br>- **LTR** - Loan Against Trust Receipt<br>- **LIM** - Loan Against Imported Merchandise |
+
+In Bangladesh banking practice, **PAD → LTR → LIM**: How It Works
 <table>
-  <tr><th colspan="3">In Bangladesh banking practice, PAD often transitions into **LTR** (Loan Against Trust Receipt) or **LIM** (Loan Against Imported Merchandise) depending on the situation.</th></tr>
   <tr>
     <td>PAD</td>
-    <td>- Created when the bank pays the exporter under an L/C and holds the shipping documents.<br> - Importer cannot take delivery until PAD is settled.</td>
+    <td>- Created when the bank pays the exporter under an L/C and holds the shipping documents.<br> 
+      - Importer cannot take delivery until PAD is settled.</td>
     <td>usually 21–30 days</td>
+  </tr>
+  <tr>
+    <td>LTR</td>
+    <td>Created if the importer wants to take delivery of goods but cannot pay PAD immediately:<br>
+      - Bank releases documents against a Trust Receipt signed by the importer.<br>
+      - Importer promises to pay after selling goods.</td>
+    <td>usually 180 days</td>
+  </tr>
+  <tr>
+    <td>LIM</td>
+    <td>Created if the importer defaults or fails to clear PAD/LTR<br>
+      - Bank clears goods from port and stores them in its own warehouse. (Bank takes physical control of goods as collateral.)<br>
+      - Creates LIM account to recover dues by selling goods under Bank supervision</td>
+    <td>usually 180 days</td>
   </tr>
 </table>
 
