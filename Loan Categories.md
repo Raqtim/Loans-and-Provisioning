@@ -46,7 +46,13 @@ In Bangladesh banking practice, **PAD → LTR → LIM**: How It Works
     <td>Created if the importer defaults or fails to clear PAD/LTR<br>
       - Bank clears goods from port and stores them in its own warehouse. (Bank takes physical control of goods as collateral.)<br>
       - Creates LIM account to recover dues by selling goods under Bank supervision</td>
-    <td>usually 180 days</td>
+    <td>360 days Max</td>
   </tr>
 </table>
+
+| Security |
+| :--- |
+| - **PAD** - Shipping DOCs + Imported Goods(act as the primary security)+Security at L/C creation<br>- **LTR** - goods released to importer under trust+Security at L/C creation<br>- **LIM** - goods physically held by bank |
+
+**N.B.** _Banks can start directly with LTR or LIM depending on the situation and the importer’s request._ 
 
