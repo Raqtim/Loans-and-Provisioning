@@ -58,3 +58,4 @@ In Bangladesh banking practice, **PAD → LTR → LIM**: How It Works
 
 **N.B.** _Banks can start directly with LTR or LIM depending on the situation and the importer’s request._ 
 
+_`The information presented here is compiled for personal reference and educational purposes only. Please verify with Bangladesh Bank circulars and authoritative sources before applying in practice.`_
