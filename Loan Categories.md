@@ -15,9 +15,7 @@ One-off facility:
 
 | Renewal Requirement: |
 | :--- |
-| - Banks must renew the limit before expiry to keep the loan unclassified. 
-_(If a continuous loan is not repaid or renewed by its expiry date, it becomes past due/overdue from the next day.)_ |
-
+| - Banks must renew the limit before expiry to keep the loan unclassified. _(If a continuous loan is not repaid or renewed by its expiry date, it becomes past due/overdue from the next day.)_ |
 
 | Ex. |  - Cash Credit (Hypo/Pledge), Overdraft, etc. |
 | :--- | ---: |
