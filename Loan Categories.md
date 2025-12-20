@@ -10,7 +10,7 @@ _`The information presented here is compiled for personal reference and educatio
 - No revolving nature exists.
 
 ## **Categories of Loans and Advances:**
-### A. Continuous Loan: _(revolving credit facility)_
+### A. Continuous Loan: _(revolving credit facility)_ | CL - 2 |
 - A type of credit facility that allows multiple transactions within a sanctioned limit
 - Generally used for working capital purposes.
 - It is characterized by flexibility in withdrawals and repayments, but it must be fully adjusted by a specified expiry date.
@@ -21,7 +21,8 @@ _`The information presented here is compiled for personal reference and educatio
 
 | Ex. |  - Cash Credit (Hypo/Pledge), Overdraft, etc. |
 | :--- | ---: |
-### B. Demand Loan: _(one-off facility)_
+### B. Demand Loan: _(one-off facility)_ | CL - 3 |
+
 - A type of credit facility that is repayable on demand by the Bank (lender)
 
 | Such as: |
@@ -54,8 +55,14 @@ In Bangladesh banking practice, **PAD → LTR → LIM**: How It Works
 
 | Security |
 | :--- |
-| - **PAD** - Shipping DOCs + Imported Goods(act as the primary security)+Security at L/C creation<br>- **LTR** - goods released to importer under trust+Security at L/C creation<br>- **LIM** - goods physically held by bank |
+| - **PAD** - Shipping DOCs + Imported Goods(act as the primary security)+Security at L/C creation<br>- **LTR** - goods released to importer under trust+Security at L/C creation<br>- **LIM** - goods physically held by bank+Security at L/C creation |
 
 **N.B.** _Banks can start directly with LTR or LIM depending on the situation and the importer’s request._ 
+
+### C. Fixed Term Loan | CL - 4 |
+The loans which are repayable within a specific time period under a specific repayment schedule will be treated as Fixed Term Loan.
+
+### D. Short-term Agricultural Credit | CL - 5 |
+Short-term Agricultural Credit will include the short-term credits as listed under the Agricultural and Rural Credit Policy and Program issued by the Agricultural Credit Department (ACD) of Bangladesh Bank. Credits in the agricultural sector repayable within 12 (twelve) months will also be included herein.
 
 _`The information presented here is compiled for personal reference and educational purposes only. Please verify with Bangladesh Bank circulars and authoritative sources before applying in practice.`_
