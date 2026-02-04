@@ -1,2 +1,12 @@
+## **LOAN Classification and Provisioning**
+- [BRPD 15 - 27 Nov 2024](https://www.bb.org.bd/mediaroom/circulars/brpd/nov272024brpd15e.pdf) **Master Circular:** Loan Classification and Provisioning
+  -  [BRPD 29 - 21 Dec 2025](https://www.bb.org.bd/mediaroom/circulars/brpd/dec212025brpdl29e.pdf) CMSME provisioning effective till 31.12.2026
+  -  [BRPD 05 - 25 Jun 2025](https://www.bb.org.bd/mediaroom/circulars/brpd/jun252025brpd5e.pdf) Revised CL reporting forms
+
+## **POLICY SUPPORT (Special 2025)**
+- [BRPD 07 - 16 Sep 2025](https://www.bb.org.bd/mediaroom/circulars/brpd/sep162025brpd07.pdf) Policy support for restructuring the business and financial condition of the affected borrowers
+  - [BRPD 26 - 24 Nov 2025](https://www.bb.org.bd/mediaroom/circulars/brpd/nov242025brpdl26.pdf) Subsequent Modification
+
 ## **EXIT Policy**
-- [BRPD 13/ 08 July 2024 - অনাদায়ী ঋণ আদায়/সমন্বয়ে এক্সিট সংক্রান্ত নীতিমালা](https://www.bb.org.bd/mediaroom/circulars/brpd/jul082024brpd13.pdf)
+- [BRPD 13 - 08 July 2024](https://www.bb.org.bd/mediaroom/circulars/brpd/jul082024brpd13.pdf) অনাদায়ী ঋণ আদায়/সমন্বয়ে এক্সিট সংক্রান্ত নীতিমালা
+- 
